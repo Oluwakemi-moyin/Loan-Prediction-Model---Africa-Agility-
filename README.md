@@ -17,7 +17,7 @@ The goal of a loan prediction data analysis is to:
 
 - Potentially streamline the loan approval process.
 
-## The data source used: LOAN PREDICTION DATASET
+### The data source used: LOAN PREDICTION DATASET
 
 2. Data Summary & Insights
 
